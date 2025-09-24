@@ -8,3 +8,4 @@ langchain-openai
 beautifulsoup4
 langchain-ollama
 faiss-cpu
+langchain-groq
