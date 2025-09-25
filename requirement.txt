@@ -9,3 +9,8 @@ beautifulsoup4
 langchain-ollama
 faiss-cpu
 langchain-groq
+fastapi
+uvicorn
+langserve
+sse_starlette
+chainBatchRequest
