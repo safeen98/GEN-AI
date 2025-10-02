@@ -17,7 +17,7 @@ os.environ['LANGCHAIN_PROJECT'] = 'QAndA ChatBot'
 
 prompt = ChatPromptTemplate.from_messages(
     [
-        ('system','Your are a helpful bot , provide the answer to the below question a very precise manner, also explain a manner how a gut from Uttar pradesh Talks, provide answer in Hinglish'),
+        ('system','Your are a helpful bot , provide the answer to the below question a very precise manner'),
         ('human','{question}')
     ]
 )
