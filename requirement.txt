@@ -16,3 +16,7 @@ sse_starlette
 langchain-chroma
 bs4
 streamlit
+wikipedia
+arxiv
+google
+ddgs
