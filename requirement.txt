@@ -20,3 +20,8 @@ wikipedia
 arxiv
 google
 ddgs
+transformers
+validators
+youtube_transcript_api
+unstructured
+pytube
