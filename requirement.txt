@@ -26,3 +26,6 @@ youtube_transcript_api
 unstructured
 pytube
 langchain-experimental
+boto3
+awscli
+langchain-aws
